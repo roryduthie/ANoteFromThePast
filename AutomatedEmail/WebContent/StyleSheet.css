@@ -1,0 +1,98 @@
+body
+{	
+	
+     
+     background-image: url("god.jpg"); no-repeat center center fixed;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+        background-size: cover;
+     font-family:"Eras Light ITC";
+     font-style:italic;
+     
+     
+}
+form
+{
+	  width: 50%;
+      margin:0 auto 0 auto;
+      padding:5px;
+      border:2px solid #cccccc;
+      background:white;
+      border-radius:25px;
+      
+}
+td
+{
+	padding: 10px;
+}
+
+
+
+#submitButton
+{
+	-webkit-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	-moz-box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	box-shadow:rgba(0,0,0,0.2) 0 1px 0 0;
+	border-bottom-color:#333;
+	border:1px solid #61c4ea;
+	background-color:rgb(180, 216, 231);
+	border-radius:5px;
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	color:#333;
+    font-family:"Eras Light ITC";
+    
+    
+	padding: 5px;
+}
+#submitButton:hover
+{
+	background-color:white;
+}
+
+.col1 
+{
+	background-color: yellow;
+	float: left;
+	border:2px solid #cccccc;
+      background:white;
+      border-radius:25px;
+      width: 20%;
+      height: 320px;
+      padding: 10px;
+}
+
+.col2 
+{
+	float: none;
+}
+
+.col3 
+{
+	background-color: magenta;
+	float: right;
+	border:2px solid #cccccc;
+      background:white;
+      border-radius:25px;
+      width: 20%;
+      height: 320px;
+      padding: 10px;
+}
+#likeButton
+{
+	text-align: center;
+}
+#copyRight
+{
+	text-align: center;
+	font-size:11px;
+}
+.textBox
+{
+	width:80%;
+}
+h1
+{
+	text-align: center;
+}
